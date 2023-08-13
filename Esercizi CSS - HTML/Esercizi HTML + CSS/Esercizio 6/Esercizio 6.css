@@ -1,0 +1,54 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+
+}
+
+.contenitore{
+  padding: 50px;
+}
+
+ .add a {
+  font-size: 40px;
+  color: #3481d0;
+  text-decoration: none;
+}
+
+.Titolo{
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 20px;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
+}
+
+.Titolo a{
+  float: right;
+  text-decoration: none;
+  font-size: 20px;
+  color: #3481d0;
+
+}
+
+
+.Foto{
+  height: 200px;
+  width: 250px;
+}
+
+.album{
+  margin: 30px;
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+
+.album-titolo, .album-numero{
+  font-size: 15px;
+  margin: 5px;
+}
+
+.album-numero{
+  color: grey;
+}

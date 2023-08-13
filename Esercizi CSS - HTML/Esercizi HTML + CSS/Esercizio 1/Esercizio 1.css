@@ -1,0 +1,17 @@
+.FotoNome{
+  background-color: silver;
+  text-align: center;
+}
+
+div.Titoli{
+  font-size: 15px;
+  color: DarkGoldenRod ;
+}
+
+ main > h3{
+  font-style: italic;
+}
+
+hr{
+  color: DarkGoldenRod;
+}

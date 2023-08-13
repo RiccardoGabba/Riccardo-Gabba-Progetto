@@ -1,0 +1,38 @@
+*{margin: 0px}
+
+
+.background1{
+  background-image: url("amsterdam.JPG");
+  height: 100vh;
+  background-size:cover;
+  position: relative;
+}
+
+.background2{
+  background-image: url("Roma.JPG");
+  height: 100vh;
+  background-size: cover;
+  position: relative;
+}
+
+.background3{
+  background-image: url("japan.JPG");
+  height: 100vh;
+  background-size:cover;
+  position: relative;
+}
+
+.Testo{
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+span{
+  color: white;
+  text-align: center;
+}

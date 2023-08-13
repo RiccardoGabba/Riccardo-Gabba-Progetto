@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <div class="">
+      <input type="text" name="firstname" placeholder="inserisci nome">
+      <input type="text" name="lastname" placeholder="inserisci cognome">
+    </div>
+    <div class="">
+      <input type="text" name="firstname" placeholder="inserisci nome">
+      <input type="text" name="lastname" placeholder="inserisci cognome">
+
+    </div>
+    <div class="">
+      <input type="email" name="" placeholder="inserisci email">
+      <input type="password" name="" placeholder="inserisci passwor">
+      <select class="" name="documento">
+        <option> carta identità </option>
+        <option> patente </option>
+        <option> groda </option>
+        <option> crozzi </option>
+      </select>
+    </div>
+
+
+    <input type="submit"  value="Invia">
+  </body>
+</html>

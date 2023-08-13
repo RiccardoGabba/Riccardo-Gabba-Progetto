@@ -1,0 +1,65 @@
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+
+.logo{
+  width: 100px;
+  font-size: 20px
+}
+
+
+.Gmail{
+  color: white;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+}
+
+.Sasso{
+  width: 1000px;
+  margin: auto;
+  background-color: lightgray;
+}
+
+.ricerca{
+  width: 1000px;
+  margin: auto;
+}
+
+.Sinistra:after {
+  content: "...";
+}
+
+
+.Sinistra, .Destra{
+  display: inline-block;
+}
+.Sinistra{
+  width: 30%;
+}
+.Destra{
+  width: 58%;
+}
+
+footer{
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+footer > span{
+  font-size: 25px;
+  color: white;
+}
+
+h2 > span{
+  border-radius: 60%;
+  padding: 5px;
+  background-color: darkorange;
+}
+
+
+
+}
